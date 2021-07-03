@@ -1,2 +1,2 @@
 # wiskundemetypma
-Een website gemaakt voor Peter Ypma om leerlingen te helpen met wiskunde
+Een website gemaakt voor Peter Ypma om leerlingen te helpen met wiskunde. Gaat mooi worden.
